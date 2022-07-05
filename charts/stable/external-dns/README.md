@@ -291,3 +291,4 @@ Other mayor changes included in this major version are:
   - `aws.credentialsPath` -> `aws.credentials.mountPath`
   - `designate.customCA.directory` -> `designate.customCA.mountPath`
 - Support to Prometheus metrics is added.
+
